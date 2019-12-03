@@ -1,0 +1,33 @@
+{
+  "appointments": [
+      {
+        "summary": "A chance to see Claudia's smug, self-satisfied grin",
+        "location": "wo-auch-immer",
+        "description": "Das ist eine Beschreibung.",
+        "start": {
+          "dateTime": "2019-12-03T09:00:00+01:00"
+        },
+        "end": {
+          "dateTime": "2019-12-03T17:00:00+01:00"
+        },  
+        "sendNotifications" : true,
+
+        "attendees": [
+          {"email": "c.egerer@networkpeople.de"},
+          {"email": "zoltan.patakfalvi@smaser.ag"},
+          {"email": "zoltan.patakfalvi@salgotechnik.hu"},
+          {"email": "tamas.patakfalvi@salgotechnik.hu"}
+        ],
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {"method": "email", "minutes": 1440},
+            {"method": "popup", "minutes": 10}
+          ]
+        }
+      }
+  ],
+  "profile": {
+    "name": "calendarservice"
+  }
+}
