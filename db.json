@@ -2,11 +2,11 @@
   "appointments": [
       {
         "id": "id1-1234567890",
-        "summary": "A chance to see Claudias smug, self-satisfied grin",
-        "location": "wo-auch-immer",
-        "description": "Das ist eine Beschreibung 2.",
-        "start": "2019-12-03T10:00:00+01:00",
-        "end": "2019-12-03T17:00:00+01:00",  
+        "summary": "Nikolausparty mit Kinder",
+        "location": "80335 München, Kreittmayrstrasse 18",
+        "description": "Der Nikolasu kommt um 20:30. Die Kiner bekommen Geschänke, danach gibt es gemeinsames Essen für Alle.",
+        "start": "2019-12-06T17:00:00+01:00",
+        "end": "2019-12-06T20:00:00+01:00",  
         "sendNotifications" : true,
 
         "attendees": [
@@ -25,11 +25,11 @@
       },
     {
         "id": "id2-1234567890",
-        "summary": "Termin 2",
-        "location": "Meeting Raum Nr 2",
-        "description": "Das ist eine Beschreibung von dem zweiten Kalendertermin.",
-        "start": "2019-12-04T16:00:00+01:00",
-        "end": "2019-12-04T17:30:00+01:00",  
+        "summary": "Wanderung in der Alpen",
+        "location": "Corvara, Colfosco, Südtirol",
+        "description": "Wenn das Wetter erlaubt, möchten wir am Samstag Piz Boe besteigen. Am Sonntag machen wir nur noch einen kleinen Spaziergang.",
+        "start": "2019-12-07T00:00:00+01:00",
+        "end": "2019-12-09T00:00:00+01:00",  
         "sendNotifications" : true,
 
         "attendees": [
