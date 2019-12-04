@@ -1,6 +1,7 @@
 {
   "appointments": [
       {
+        "id": "id1-1234567890",
         "summary": "A chance to see Claudias smug, self-satisfied grin",
         "location": "wo-auch-immer",
         "description": "Das ist eine Beschreibung.",
@@ -27,6 +28,7 @@
         }
       },
     {
+        "id": "id2-1234567890",
         "summary": "Termin 2",
         "location": "Meeting Raum Nr 2",
         "description": "Das ist eine Beschreibung von dem zweiten Kalendertermin.",
