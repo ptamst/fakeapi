@@ -4,7 +4,7 @@
         "id": "id1-1234567890",
         "summary": "Nikolausparty mit Kinder",
         "location": "80335 München, Kreittmayrstrasse 18",
-        "description": "Der Nikolasu kommt um 20:30. Die Kiner bekommen Geschänke, danach gibt es gemeinsames Essen für Alle.",
+        "description": "Der Nikolaus kommt um 20:30. Die Kiner bekommen Geschänke, danach gibt es gemeinsames Essen für Alle.",
         "start": "2019-12-06T17:00:00+01:00",
         "end": "2019-12-06T20:00:00+01:00",  
         "sendNotifications" : true,
