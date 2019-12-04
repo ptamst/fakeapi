@@ -30,9 +30,7 @@
         "summary": "Termin 2",
         "location": "Meeting Raum Nr 2",
         "description": "Das ist eine Beschreibung von dem zweiten Kalendertermin.",
-        "start": {
-          "dateTime": "2019-12-04T16:00:00+01:00"
-        },
+        "start": "2019-12-04T16:00:00+01:00",
         "end": {
           "dateTime": "2019-12-04T17:30:00+01:00"
         },  
