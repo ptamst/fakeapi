@@ -4,8 +4,8 @@
         "id": "id1-1234567890",
         "summary": "A chance to see Claudias smug, self-satisfied grin",
         "location": "wo-auch-immer",
-        "description": "Das ist eine Beschreibung.",
-        "start": "2019-12-03T09:00:00+01:00",
+        "description": "Das ist eine Beschreibung 2.",
+        "start": "2019-12-03T10:00:00+01:00",
         "end": {
           "dateTime": "2019-12-03T17:00:00+01:00"
         },  
