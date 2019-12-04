@@ -6,9 +6,7 @@
         "location": "wo-auch-immer",
         "description": "Das ist eine Beschreibung 2.",
         "start": "2019-12-03T10:00:00+01:00",
-        "end": {
-          "dateTime": "2019-12-03T17:00:00+01:00"
-        },  
+        "end": "2019-12-03T17:00:00+01:00",  
         "sendNotifications" : true,
 
         "attendees": [
@@ -31,9 +29,7 @@
         "location": "Meeting Raum Nr 2",
         "description": "Das ist eine Beschreibung von dem zweiten Kalendertermin.",
         "start": "2019-12-04T16:00:00+01:00",
-        "end": {
-          "dateTime": "2019-12-04T17:30:00+01:00"
-        },  
+        "end": "2019-12-04T17:30:00+01:00",  
         "sendNotifications" : true,
 
         "attendees": [
