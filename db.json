@@ -5,12 +5,12 @@
         "summary": "Nikolausparty mit Kinder",
         "location": "80335 München, Kreittmayrstrasse 18",
         "description": "Der Nikolaus kommt um 20:30. Die Kiner bekommen Geschänke, danach gibt es gemeinsames Essen für Alle.",
-        "start": [
+        "start":
           { "datetime" : "2019-12-06T17:00:00+01:00" }
-          ],
-        "end": [
+          ,
+        "end":
           { "datetime" : "2019-12-06T20:00:00+01:00" }
-          ],  
+          ,  
         "sendNotifications" : true,
 
         "attendees": [
@@ -32,12 +32,12 @@
         "summary": "Wanderung in der Alpen",
         "location": "Corvara, Colfosco, Südtirol",
         "description": "Wenn das Wetter erlaubt, möchten wir am Samstag Piz Boe besteigen. Am Sonntag machen wir nur noch einen kleinen Spaziergang.",
-        "start": [
+        "start":
           { "datetime" : "2019-12-07T00:00:00+01:00" }
-          ],
-        "end": [
+          ,
+        "end":
           { "datetime" : "2019-12-09T00:00:00+01:00" }
-          ]
+          ,
         "sendNotifications" : true,
 
         "attendees": [
